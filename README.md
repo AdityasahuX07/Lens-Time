@@ -11,7 +11,7 @@ Post-surgical patients requiring scleral lens therapy
 Dry eye sufferers using scleral lenses
 Anyone wearing specialty contact lenses who needs to track wear time
 
-**👁️ What is Keratoconus**
+**👁️ What is Keratoconus ?**
 
 Keratoconus is an eye disorder in which the cornea, the transparent front part of the eye, gradually thins and bulges outward into a cone shape. This causes distorted vision, including blurry vision, double vision, increased nearsightedness, irregular astigmatism, and light sensitivity, which can reduce quality of life. Both eyes are usually affected.
 
