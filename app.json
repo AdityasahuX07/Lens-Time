@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "scleral-lens-tracker",
-    "slug": "scleral-lens-tracker",
-    "version": "1.0.0",
+    "name": "Lens Time",
+    "slug": "lens-time",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,10 +21,14 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.sclerallenstracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ]
   }
 }
