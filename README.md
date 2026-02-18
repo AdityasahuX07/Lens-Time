@@ -17,28 +17,23 @@ Keratoconus is an eye disorder in which the cornea, the transparent front part o
 
 🖼️ **ScreenShots -**
 
-<table style="width: 100%;">
-  <tr>
-    <td align="center"><b>Home</b></td>
-    <td align="center"><b>Timer</b></td>
-    <td align="center"><b>Reports</b></td>
+<p align="center">
+<tr>
+    <td><img src="https://github.com/user-attachments/assets/28226dd4-5785-47b8-90ac-246def255065" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/4a119655-1d68-4adf-bdc0-8c9fc878638a" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/9116b9fa-e49a-4765-9d64-895470476393" width="250pt" /></td>
   </tr>
+  
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e10152f6-3c74-4f8f-84f0-9e3324a769aa" width="250pt" /></td>
-    <td><img src="https://github.com/user-attachments/assets/a703ad86-d8e1-4d7f-bcbb-193f5e9c859b" width="250pt" /></td>
-    <td><img src="https://github.com/user-attachments/assets/1b87102d-5805-49c2-b6bf-0e5ba799b94c" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/3fbc9d24-5b4a-435f-a40d-f3122b26c13d"   width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/82975d27-01a7-436c-bc7f-7d7448b41d0c" width="250pt" /></td>
+    <td><img src="https://github.com/user-attachments/assets/c0c043f6-379d-4815-a6d0-33a66fdb1d1c" width="250pt" /></td>
   </tr>
-  <tr>
-    <td align="center"><b>Stats</b></td>
-    <td align="center"><b>Settings</b></td>
-    <td align="center"><b>Import & Export</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/34e7a831-0443-42e1-bc1a-e27474538757" width="250pt" /></td>
-    <td><img src="https://github.com/user-attachments/assets/7b542fda-efac-4664-a919-4f01821bca0b" width="250pt" /></td>
-    <td><img src="https://github.com/user-attachments/assets/09f17598-25c2-440f-b0ee-b568ab16cbff" width="250pt" /></td>
-  </tr>
-</table>
+</p>
+
+  
+  
+
 
 ✨** Key Features:**
 
